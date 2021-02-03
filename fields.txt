@@ -1,0 +1,17 @@
+link
+job_name
+place
+company_name
+company_nuture
+company_size
+company_industry
+job_kind
+job_number
+id
+post_time
+job_place
+job_nature
+company_address
+job_content
+education
+company_homepage
